@@ -1,0 +1,20 @@
+/*body{
+    background-color: #FAFAFA;
+}*/
+
+h2{
+    text-align: center;
+    position: relative;
+    color: darkgreen;
+    block-size: auto;
+}
+
+nav{
+    font-style: normal;
+    block-size: auto;
+}
+
+nav.navbar {
+    background-color: #CC1414;
+}
+
