@@ -1,0 +1,13 @@
+h2{
+    text-align: center;
+    position: relative;
+    color: darkgreen;
+    block-size: auto;
+}
+
+
+body{
+    background: url(../img/animals.jpg) no-repeat fixed center center;
+    background-size: cover;
+}
+
